@@ -1,2 +1,3 @@
 import module_4
-print(module_4.hello)
+module_4.hello()
+module_4.hello_()
