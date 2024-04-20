@@ -2,11 +2,8 @@ def hello():
     print('Hello, world')
 
 
-hello()
-
-
-def hello():
+def hello_():
     print('Hello, world')
 
-
-hello()
+if __name__ == '__main__':
+    hello_()
